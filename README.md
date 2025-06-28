@@ -22,4 +22,7 @@
 🥉 Least popular:
 • Bottom 5: Spinach Pesto, Mediterranean, Spinach Supreme, Green Garden, Brie Carre
 
+Tech Stack Used:
+MS SQL Server, Excel, MS Power BI
+
 Our report dives deep into customer preferences and seasonal trends, providing actionable insights for enhancing menu offerings and driving growth. 
